@@ -1,2 +1,2 @@
 # MineSweeper
-MineSweeper Game in C
+Command Line MineSweeper Game in C

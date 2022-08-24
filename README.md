@@ -5,6 +5,7 @@ The executable is already provided, but the source code can be compiled with a C
 The highscore file must be in the same directory as the executable. It has no security whatsoever.
 
 MADE BY: Bernardo Reis
+
 VERSION: 4.1
 
 *********************************
